@@ -9,7 +9,7 @@ After the paper is accepted, we will continue to improve the content of the docu
 
 ## 1. Dataset
 
-BraTs2020: https://www.med.upenn.edu/cbica/brats2020/data.html (The preprocessing code is placed here: utils/pre_brats_data.py)
+BraTs2020: https://www.med.upenn.edu/cbica/brats2020/data.html (The preprocessing code is placed here: '''utils/pre_brats_data.py''')
 
 IXI: You can download the dataset from [here](https://drive.google.com/drive/u/0/folders/1En_S9c081T2hV-joaFJv3xlMX2Eqzl5V), (Preprocessed dataset source: https://github.com/icon-lab/pGAN-cGAN)
 
