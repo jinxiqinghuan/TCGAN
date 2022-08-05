@@ -11,8 +11,8 @@ After the paper is accepted, we will continue to improve the content of the docu
 
 BraTs2020: https://www.med.upenn.edu/cbica/brats2020/data.html
 
-IXI: https://drive.google.com/drive/u/0/folders/1En_S9c081T2hV-joaFJv3xlMX2Eqzl5V (Preprocessed dataset source: https://github.com/icon-lab/pGAN-cGAN)
- 
+IXI: You can download the dataset from [here](https://drive.google.com/drive/u/0/folders/1En_S9c081T2hV-joaFJv3xlMX2Eqzl5V), (Preprocessed dataset source: https://github.com/icon-lab/pGAN-cGAN)
+
 
 ## 2.Methods
 
